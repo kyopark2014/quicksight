@@ -1,6 +1,18 @@
 # Amazon QuickSight
 
-## Query 방법
+## 사용자 유형
+
+#### 관리자
+#### 작성자(Author)
+#### 독자(Reader)
+
+## 인증 방식
+
+#### IAM
+#### Active Directory (AD)
+#### Single Sign On (SSO)
+
+## 데이터 사용 
 
 #### SPICE
 
