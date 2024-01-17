@@ -22,6 +22,8 @@
 
 #### 원클릭 임베딩: 기존 웹페이지에 추가
 
+![image](https://github.com/kyopark2014/quicksight/assets/52392004/b0d6c466-3b0a-4f7d-b9c4-7dda7845e3fc)
+
 ## Reference
 
 [모두를 위한 BI, QuickSight - 민지수 솔루션즈 아키텍트, AWS / 윤기원 솔루션즈 아키텍트, AWS :: AWS Summit Seoul 2023](https://www.youtube.com/watch?v=7V28RjcQY5s)
